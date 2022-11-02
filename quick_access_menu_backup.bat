@@ -101,9 +101,9 @@ echo. *** HELP / MORE INFO ***
 echo.
 echo. Backup -
 echo.	Run this batch file on computer to be backed up; ORIGINATING computer if transferring Quick Access (QA)
-echo.	  menu items.
+echo.	    menu items.
 echo.	This will copy your current QA menu items to your user drive: U:\Backups\quickaccess_backup
-echo.	  If folders do not exist, they will be created.
+echo.	    If folders do not exist, they will be created.
 echo.	Creates a log of the backup; %log%.
 echo.
 echo. Restore -
