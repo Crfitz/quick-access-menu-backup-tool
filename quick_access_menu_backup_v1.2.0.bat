@@ -2,7 +2,7 @@
 
 set format=_____ %Date% _____
 echo.
-set ver=1.2
+set ver=1.2.0
 cls
 
 :MENU
